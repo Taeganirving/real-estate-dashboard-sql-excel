@@ -17,7 +17,7 @@ I designed and developed a fully integrated analytics dashboard that connects SQ
 - `README.md` — project overview and documentation  
 
 ### Skills Demonstrated
-**SQL**, **Excel**, **Data Visualization**, **Financial Analytics**, **Dashboard Design**, **Bloom’s Taxonomy Creation Level**
+**SQL**, **Excel**, **Data Visualization**, **Financial Analytics**, **Dashboard Design**
 
 ---
 
